@@ -5,11 +5,11 @@ output: html_notebook
 
 # 4 Displaying Multiway Tables
 
+## 4.1 Cleveland dot plot
+
 ```{r}
 library(lattice)
 ```
-
-## 4.1 Cleveland dot plot
 
 ```{r}
 VADeaths

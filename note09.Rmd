@@ -5,18 +5,18 @@ output: html_notebook
 
 # 9 Labels and Legends
 
+## 9.1 Labels
+
 ```{r}
 library(lattice)
 library(grid)
 ```
 
-## 9.1 Labels
-
 ```{r}
 demo("labels", package = "lattice")
 ```
 
-## 9.2 Legends 157
+## 9.2 Legends
 
 ```{r}
 data(Cars93, package = "MASS")
