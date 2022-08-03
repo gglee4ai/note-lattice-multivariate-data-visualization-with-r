@@ -1,0 +1,18 @@
+---
+title: "note12"
+output: 
+---
+
+# 12 Interacting with Trellis Displays
+
+## 12.1 The traditional graphics model
+
+```{r}
+library(lattice)
+```
+
+
+```{r}
+
+```
+
